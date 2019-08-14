@@ -1,0 +1,11 @@
+https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0
+https://towardsdatascience.com/activation-functions-and-its-types-which-is-better-a9a5310cc8f
+
+https://towardsdatascience.com/deep-learning-regularization-notes-29df9cb90779
+https://medium.com/@tm2761/regularization-hyperparameter-tuning-in-a-neural-network-f77c18c36cd3
+
+https://chatbotslife.com/regularization-in-deep-learning-f649a45d6e0
+https://www.quora.com/What-is-an-intuitive-explanation-of-over-fitting-particularly-with-a-small-sample-set-What-are-you-essentially-doing-by-over-fitting-How-does-the-over-promise-of-a-high-R%C2%B2-low-standard-error-occur
+
+https://medium.com/deeper-learning/glossary-of-deep-learning-batch-normalisation-8266dcd2fa82
+https://medium.com/@krishna_84429/understanding-batch-normalization-1eaca8f2f63e
